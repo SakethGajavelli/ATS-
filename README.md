@@ -93,7 +93,7 @@ The app will launch at `http://127.0.0.1:7860`. Open this URL in your browser.
 
 ### Using the Hosted Version
 
-1. **Visit the Space**: Go to the [ATS Resume Analyzer Space](https://huggingface.co/spaces/Kamesh14/ATS-Resume-Analyzer) on Hugging Face.
+1. **Visit the Space**: Go to the [ATS Resume Analyzer Space](https://huggingface.co/spaces/sakethgahavelli/ATS-Resume-Analyzer) on Hugging Face.
 2. **Upload Your Resume**: Click the "Upload your resume (PDF)" field and select your resume file in PDF format.
 3. **Enter a Job Role**: In the "Enter job role" field, type the job role you're applying for (e.g., "Data Scientist").
 4. **Submit**: Click the "Submit" button to analyze your resume.
@@ -133,13 +133,13 @@ After uploading a resume and selecting "Data Scientist" as the job role, you mig
 
 We welcome contributions to improve the ATS Resume Analyzer! If you'd like to add new job roles, enhance the analysis algorithm, or improve the UI, please:
 
-1. Fork the repository: [ATS Resume Analyzer GitHub](https://github.com/Kamesh14/ATS-Resume-Analyzer).
+1. Fork the repository: [ATS Resume Analyzer GitHub](https://github.com/SakethGajavelli/ATS-Resume-Analyzer).
 2. Create a new branch for your changes:
 3. Commit your changes:
 4. Push to your fork:
 5. Submit a pull request with a detailed description of your updates.
 
-You can also report issues or suggest features by opening an issue in the repository: [Issue Tracker](https://github.com/Kamesh14/ATS-Resume-Analyzer/issues).
+You can also report issues or suggest features by opening an issue in the repository: [Issue Tracker](https://github.com/SakethGajavelli/ATS-Resume-Analyzer/issues).
 
 ## License
 
@@ -147,7 +147,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For questions, feedback, or support, please open an issue in the repository: [Issue Tracker](https://github.com/Kamesh14/ATS-Resume-Analyzer/issues) or contact me at [kamesh743243@gmail.com](mailto:kamesh743243@gmail.com).
+For questions, feedback, or support, please open an issue in the repository: [Issue Tracker](https://github.com/SakethGajavelli/ATS-Resume-Analyzer/issues) or contact me at [sakethmunna220@gmail.com](mailto:sakethmunna220@gmail.com).
 
 ## Acknowledgements
 
